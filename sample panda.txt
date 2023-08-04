@@ -1,0 +1,143 @@
+
+Employee Details
+
+Employee 1:
+Name: vimal G
+Employee ID: 1001
+Date of Birth: 15/03/1985
+Gender: Male
+Position: Senior Software Engineer
+Department: IT
+Date of Joining: 01/05/2010
+Work Email: john.smith@company.com
+Work Phone: +1 (555) 123-4567
+Address: 123 Main Street, City, State, ZIP
+
+Employee 2:
+Name: kavitha
+Employee ID: 1002
+Date of Birth: 25/09/1990
+Gender: Female
+Position: Marketing Manager
+Department: Marketing
+Date of Joining: 10/02/2015
+Work Email: emily.johnson@company.com
+Work Phone: +1 (555) 987-6543
+Address: 456 Oak Avenue, City, State, ZIP
+
+Employee 3:
+Name: prasan
+Employee ID: 1003
+Date of Birth: 05/11/1988
+Gender: Male
+Position: Sales Representative
+Department: Sales
+Date of Joining: 20/07/2018
+Work Email: michael.williams@company.com
+Work Phone: +1 (555) 222-3333
+Address: 789 Elm Street, City, State, ZIP
+
+Employee 4:
+Name: vidhya
+Employee ID: 1004
+Date of Birth: 10/06/1992
+Gender: Female
+Position: HR Specialist
+Department: Human Resources
+Date of Joining: 05/03/2014
+Work Email: sarah.davis@company.com
+Work Phone: +1 (555) 444-5555
+Address: 567 Pine Road, City, State, ZIP
+
+Employee 5:
+Name: surya
+Employee ID: 1005
+Date of Birth: 30/12/1986
+Gender: Male
+Position: Operations Manager
+Department: Operations
+Date of Joining: 15/09/2009
+Work Email: robert.martinez@company.com
+Work Phone: +1 (555) 777-8888
+Address: 987 Maple Lane, City, State, ZIP
+
+Employee 6:
+Name: sowmiya
+Employee ID: 1006
+Date of Birth: 12/08/1993
+Gender: Female
+Position: Junior Accountant
+Department: Finance
+Date of Joining: 02/11/2022
+Work Email: jessica.lee@company.com
+Work Phone: +1 (555) 444-9999
+Address: 321 Birch Street, City, State, ZIP
+
+Employee 7:
+Name: sathish
+Employee ID: 1007
+Date of Birth: 20/04/1987
+Gender: Male
+Position: Project Manager
+Department: Project Management
+Date of Joining: 12/06/2016
+Work Email: william.brown@company.com
+Work Phone: +1 (555) 777-1111
+Address: 111 Cedar Avenue, City, State, ZIP
+
+Employee 8:
+Name: kowsalya
+Employee ID: 1008
+Date of Birth: 18/07/1991
+Gender: Female
+Position: Graphic Designer
+Department: Design
+Date of Joining: 03/09/2017
+Work Email: olivia.taylor@company.com
+Work Phone: +1 (555) 333-2222
+Address: 222 Willow Lane, City, State, ZIP
+
+Employee 9:
+Name: vignesh
+Employee ID: 1009
+Date of Birth: 28/02/1989
+Gender: Male
+Position: Customer Support Specialist
+Department: Customer Support
+Date of Joining: 08/12/2013
+Work Email: david.anderson@company.com
+Work Phone: +1 (555) 666-7777
+Address: 333 Oak Street, City, State, ZIP
+
+Employee 10:
+Name: kavi
+Employee ID: 1010
+Date of Birth: 05/09/1994
+Gender: Female
+Position: Administrative Assistant
+Department: Administration
+Date of Joining: 21/04/2020
+Work Email: sophia.hernandez@company.com
+Work Phone: +1 (555) 111-2222
+Address: 444 Elm Avenue, City, State, ZIP
+
+Emergency Contact Information:
+(Contact details of emergency contacts for each employee)
+
+Bank Account Information:
+(Bank account details for salary payments)
+
+Tax Information:
+(Tax-related details for each employee)
+
+Salary Information:
+(Salary details for each employee)
+
+Benefits:
+(List of benefits provided to each employee)
+
+Additional Notes:
+(Any additional information or notes about the employees)
+
+Signature: ______________________
+Date: _____________
